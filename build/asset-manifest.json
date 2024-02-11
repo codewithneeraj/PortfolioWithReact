@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "https://codewithneeraj.com/static/css/main.3c7cf5ac.css",
+    "main.js": "https://codewithneeraj.com/static/js/main.78b14ab8.js",
+    "index.html": "https://codewithneeraj.com/index.html",
+    "main.3c7cf5ac.css.map": "https://codewithneeraj.com/static/css/main.3c7cf5ac.css.map",
+    "main.78b14ab8.js.map": "https://codewithneeraj.com/static/js/main.78b14ab8.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3c7cf5ac.css",
+    "static/js/main.78b14ab8.js"
+  ]
+}
